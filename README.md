@@ -1,5 +1,7 @@
 # Clicks Per Second
 
+### [Download Here](https://github.com/metergames/clicks-per-second/raw/refs/heads/main/Clicks%20Per%20Second.exe)
+
 <img width="auto" src="https://github.com/user-attachments/assets/68349ed0-b7f0-4c0a-862d-a75903031288"/>
 
 **Clicks per Second (CPS)** is a measure of how many times a person can click a mouse button (or tap a screen) within one second. It's often used in online games, challenges, and tests to measure how fast someone can perform clicking actions. CPS tests are especially popular among gamers in competitive games where fast clicking can give an advantage, like in **Minecraft**, **FPS games**, or other action-heavy games.
